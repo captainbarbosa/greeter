@@ -9,7 +9,7 @@
 /**
  PURPOSE:
  
- A command line cool that just says Hello :)
+ A command line tool that just says Hello :)
  Additional configurations specified.
  
  USAGE: greet [--single-quote] [--double-quote] [--points <points>] [--name <name> ...] [<content> ...]
