@@ -77,7 +77,7 @@ struct Greeter: ParsableCommand {
          --points=4
          -p 4
      
-     Known issue: `-p=4` fails. See: https://github.com/apple/swift-argument-parser/issues
+     Known issue: `-p=4` fails. See: https://github.com/apple/swift-argument-parser/issues/132
     */
     @Option(
         name: [.customShort("p"), .long],
